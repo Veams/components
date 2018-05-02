@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "component-slider": "git@github.com:Veams/component-slider",
+    "component-accordion": "git@github.com:Veams/component-accordion",
+    "component-picture": "git@github.com:Veams/component-picture",
+    "component-pagination": "git@github.com:Veams/component-pagination",
+    "component-quote": "git@github.com:Veams/component-quote",
+    "component-form": "git@github.com:Veams/component-form",
+    "component-toggler": "git@github.com:Veams/component-toggler",
+    "component-overlay": "git@github.com:Veams/component-overlay",
+    "component-figure": "git@github.com:Veams/component-figure",
+    "component-badge": "git@github.com:Veams/component-badge",
+    "component-table": "git@github.com:Veams/component-table",
+    "component-rte": "git@github.com:Veams/component-rte",
+    "component-cta": "git@github.com:Veams/component-cta",
+    "component-article": "git@github.com:Veams/component-article",
+    "component-comparer": "git@github.com:Veams/component-comparer",
+    "component-video": "git@github.com:Veams/component-video",
+    "component-skip-nav": "git@github.com:Veams/component-skip-nav",
+    "component-youtube-video": "git@github.com:Veams/component-youtube-video",
+    "component-slide-fox": "git@github.com:Veams/component-slide-fox"
+  }
+}
