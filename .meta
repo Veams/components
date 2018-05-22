@@ -20,6 +20,7 @@
     "component-youtube-video": "git@github.com:Veams/component-youtube-video",
     "component-slide-fox": "git@github.com:Veams/component-slide-fox",
     "component-modal": "git@github.com:Veams/component-modal.git",
-    "utility-storage": "git@github.com:Veams/utility-storage.git"
+    "utility-storage": "git@github.com:Veams/utility-storage.git",
+    "utility-grid": "git@github.com:Veams/utility-grid.git"
   }
 }
